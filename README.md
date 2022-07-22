@@ -2,4 +2,4 @@
 
 My fisrt Repository on GitHub
 
-I like : tea: bizkits:, and: sigars:. 
+I like : tea: :bizkits:, and: sigars:. 
